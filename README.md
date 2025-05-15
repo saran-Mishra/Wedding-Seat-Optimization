@@ -1,5 +1,5 @@
 # Wedding-Seat-Optimization
-Wedding Seat Optimization using Gurobi Solver
+Wedding Seat Optimization using Gurobi Solver. Please download the presentation file for a full description. 
 
 # Description:
 
